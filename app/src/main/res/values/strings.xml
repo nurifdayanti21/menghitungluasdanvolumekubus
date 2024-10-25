@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Menghitungluasdanvolumekubus</string>
+    <string name="welcome_message">Welcome to Kalkulator kubus</string>
+    <string name="hint_sisi">Sisi</string>
+    <string name="result">Result</string>
+    <string name="button_hitung">Hitung</string>
+
+</resources>
